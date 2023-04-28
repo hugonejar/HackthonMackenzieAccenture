@@ -160,8 +160,6 @@ clean_button.grid(row=5, column=0, padx=10, pady=10, sticky="W")
 window.mainloop()
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4b7f1a5-eec5-4925-9022-72df3e388042/Untitled.png)
-
 ## Para rodar o código
 
 - Para usar o projeto basta rodar o arquivo analog_gauge_reader no terminal em python e seguir o fluxo natural.
